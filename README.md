@@ -1,3 +1,3 @@
-# HND (CAMEROON) SOFTWARE ENGINEERING PRACTICE OF COMPUTER WEB PROGRAMMING
+# HND SOFTWARE ENGINEERING PRACTICE OF COMPUTER
 
-This repository contains some past solutions on web programming section for the Practice of Computer paper of the HND for Software Engineering
+This repository contains some past solutions on web programming section for the Practice of Computer paper of the Cameroon HND, Software Engineering.
